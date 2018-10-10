@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Stack {
+    
     private int maxSize;
     private char[] stackArr;
     private int top;

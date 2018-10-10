@@ -3,6 +3,7 @@ package geekbrains.dfprojectJava.lesson3;
 import java.io.IOException;
 
 public class PriorityQueue {
+
     private int maxSize;
     private int[] queueArray;
     private int items;

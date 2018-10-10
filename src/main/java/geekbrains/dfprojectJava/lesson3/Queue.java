@@ -1,6 +1,7 @@
 package geekbrains.dfprojectJava.lesson3;
 
 public class Queue {
+
     private int maxSize;
     private int[] queue;
     private int front;
